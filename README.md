@@ -1,6 +1,6 @@
 # rust-devcontainer-template
 
-[![Build](https://github.com/JichouP/rust-devcontainer-template/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/JichouP/rust-devcontainer-template/actions/workflows/build.yml)
+[![Build](https://github.com/JichouP/rust-postgresql-devcontainer-template/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/JichouP/rust-postgresql-devcontainer-template/actions/workflows/build.yml)
 
 ## Develop
 
